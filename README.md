@@ -59,7 +59,7 @@ B.S. Industrial Engineering | GPA: 3.62/4.00 | Expected May 2029
 ### Contact
 - Email: [rdvo@cpp.edu](mailto:rdvo@cpp.edu)
 - LinkedIn: [linkedin.com/in/ryan-vo-985152333](https://www.linkedin.com/in/ryan-vo-985152333/)
-- Resume: [Download PDF](link-to-resume.pdf)
+- Resume: [Download PDF](IE%20Resume.pdf)
 
 ---
 
