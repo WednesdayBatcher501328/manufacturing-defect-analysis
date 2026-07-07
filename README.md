@@ -1,6 +1,6 @@
 # Industrial Engineering Portfolio
 
-**Rising Sophomore | B.S. Industrial Engineering**  
+**Rising Sophomore | B.S. Industrial Engineering**
 
 California State Polytechnic University, Pomona
 
