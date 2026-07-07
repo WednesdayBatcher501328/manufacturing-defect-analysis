@@ -19,22 +19,24 @@ Industrial Engineering student with hands-on experience in process improvement, 
 ### Featured Projects
 
 ### 1. Lean Six Sigma Process Improvement
-**June 2026**  
-- Applied DMAIC methodology to reduce cycle time by **15%**  
-- Conducted MOST studies and process mapping to identify and quantify operational waste  
-- Analyzed performance data using PostgreSQL and Python  
+**June 2026**
+* Applied DMAIC methodology to reduce cycle time by **15%**.
+* Conducted MOST studies and process mapping to identify and quantify operational waste.
+* Analyzed performance data using PostgreSQL and Python.
 
 **Tools:** DMAIC, MOST, PostgreSQL, Python
+🔗 **[View Full Case Study & Methodology](lean-six-sigma-case-study.md)**
 
 ---
 
 ### 2. Predictive Defect & Quality Analytics
-**July 2026**  
-- Developed Python/SQL scripts to analyze **5,000+** quality logs and identify defect patterns  
-- Conducted Pareto analysis in Excel to isolate top 2 defects causing **80%** of process variation  
-- Built automated Python visualizations to track costs and prioritize improvements  
+**July 2026**
+* Developed Python/SQL scripts to analyze **5,000+** quality logs and identify defect patterns.
+* Conducted Pareto analysis in Excel to isolate top 2 defects causing **80%** of process variation.
+* Built automated Python visualizations to track costs and prioritize improvements.
 
 **Tools:** Python, SQL, Excel (Pareto Analysis)
+🔗 **[View Full Case Study & Code Analysis](defect-analysis-case-study.md)**
 
 ---
 
