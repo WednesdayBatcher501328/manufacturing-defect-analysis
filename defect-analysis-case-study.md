@@ -1,7 +1,8 @@
-# Case Study: Manufacturing Defect & Quality Analytics
+# Manufacturing Defect Analysis Project
 
 ### 👤 Author
 * **Ryan D. Vo** – Cal Poly Pomona Industrial Engineering
+* **Project Timeline:** Summer 2026
 * **Project Methodology:** DMAIC (Define, Measure, Analyze, Improve, Control)
 * **Dataset Source:** [Kaggle Manufacturing Defects Dataset](https://kaggle.com)
 
@@ -19,18 +20,16 @@ In high-volume manufacturing environments like Caterpillar, minimizing defect ra
 * **Isolated top 2 defects causing 80% of variation using Excel Pareto and Pivot Tables.**
 * **Utilized Python (Matplotlib/Seaborn) to track repair costs and prioritize line fixes.**
 
----
-
 ## 🗄️ 2. Data Engineering & Relational SQL Aggregations
 To aggregate the data logs across categorical groups, a relational SQL architecture is utilized to evaluate total defect frequencies and extract financial averages. 
 
 ```sql
 -- Query to map defect distribution and calculate mean repair costs
 SELECT 
-    defect_type, 
-    severity, 
-    COUNT(*) AS total_occurrences,
-    ROUND(AVG(repair_cost), 2) AS average_repair_cost
+    defect_type, 
+    severity, 
+    COUNT(*) AS total_occurrences,
+    ROUND(AVG(repair_cost), 2) AS average_repair_cost
 FROM quality_logs
 GROUP BY defect_type, severity
 ORDER BY total_occurrences DESC;
@@ -65,10 +64,10 @@ df.to_sql("quality_logs", conn, index=False, if_exists="replace")
 # 3. Execute data aggregations using standard SQL syntax
 sql_query = """
 SELECT 
-    defect_type, 
-    severity, 
-    COUNT(*) AS total_occurrences,
-    ROUND(AVG(repair_cost), 2) AS average_repair_cost
+    defect_type, 
+    severity, 
+    COUNT(*) AS total_occurrences,
+    ROUND(AVG(repair_cost), 2) AS average_repair_cost
 FROM quality_logs
 GROUP BY defect_type, severity
 ORDER BY total_occurrences DESC;
