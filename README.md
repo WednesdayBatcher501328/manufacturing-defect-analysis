@@ -2,8 +2,9 @@
 
 **Rising Sophomore | B.S. Industrial Engineering**  
 
-California State Polytechnic University, Pomona  
-Lean Six Sigma Green Belt (SSGI) | Expected Graduation: May 2029
+California State Polytechnic University, Pomona
+
+B.S. Industrial Engineering | GPA: 3.62/4.00 | Expected Graduation: May 2029
 
 ---
 
@@ -13,6 +14,13 @@ Industrial Engineering student with hands-on experience in process improvement, 
 **Technical Skills:**  
 - **Industrial Engineering:** Lean Manufacturing, DMAIC, MOST, Process Mapping, Line Balancing  
 - **Data & Analytics:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (PostgreSQL), Excel (Pivot Tables, Pareto Analysis)
+
+---
+
+### Certificate
+
+**Lean Six Sigma Green Belt(SSGI)**
+* Certified June 2026
 
 ---
 
@@ -48,13 +56,6 @@ Industrial Engineering student with hands-on experience in process improvement, 
 - Designed facility layout using decision matrices for equipment placement  
 
 **Tools:** MOST, Therbligs, Line Balancing, Decision Matrices
-
----
-
-### Education
-**California State Polytechnic University, Pomona**
-
-B.S. Industrial Engineering | GPA: 3.62/4.00 | Expected May 2029
 
 ---
 
