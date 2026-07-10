@@ -59,6 +59,11 @@ Industrial Engineering student with hands-on experience in process improvement, 
 
 ---
 
+### Resume
+[Ryan Vo – Industrial Engineering Resume (PDF)](IE Updated Resume - AutoCAD.pdf)
+
+---
+
 ### Contact
 - Email: [rdvo@cpp.edu](mailto:rdvo@cpp.edu)
 - LinkedIn: [linkedin.com/in/ryan-vo-985152333](https://www.linkedin.com/in/ryan-vo-985152333/)
