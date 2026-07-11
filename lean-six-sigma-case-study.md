@@ -204,4 +204,4 @@ The improved worksheet captured detailed process information including:
 
 ### Batch #13 Pareto Chart
 
-![Batch #13 Pareto Chart](images/batch13_pareto_chart.png)
+![Batch #13 Pareto Chart](batch13_pareto_chart.png)
