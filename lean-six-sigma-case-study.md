@@ -205,3 +205,12 @@ The improved worksheet captured detailed process information including:
 ### Batch #13 Pareto Chart
 
 ![Batch #13 Pareto Chart](batch13_pareto_chart.png)
+
+This mathematical stratification validates the structural boundaries of the operation:
+
+1. **The Vital Few:** Frying acts as the overwhelming process constraint, independently consuming 50.66% of the timeline. This thermal phase is governed by chemical and recipe parameters rather than human labor variance, identifying it as a fixed systemic boundary. 
+2. **The Trivial Many:** Manual, labor-intensive preparation steps (Cutting, Soaking, and Peeling) contribute a negligible combined total of 12.81% to the process lead time. 
+
+Cross-referencing Batch #13 against the historical Batches 1–12 baseline yields a critical Measurement System Analysis (MSA) insight. By reducing the production volume down to a single-potato pilot run, manual prep variance was effectively eliminated. Peeling and Cutting dropped from a historical average of ~12% down to single-digit percentages, proving that multi-potato handling constraints drove the labor inefficiencies in previous runs.
+
+Furthermore, a data integrity evaluation reveals that total active stopwatch time sums up to exactly 2,053 seconds. When mapped against the chronological start time (11:22) and final fry completion time (12:03), a total wall-clock window of 41 minutes (2,460 seconds) elapsed. This mathematically exposes a hidden **Muda of Waiting (Queue Time) of exactly 407 seconds** interspersed between process steps. Future iterations will mandate dual-timestamp logging to map and mitigate this non-value-added transition waste.
