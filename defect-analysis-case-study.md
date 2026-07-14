@@ -41,7 +41,8 @@ ORDER BY total_occurrences DESC;
 Pivot Tables and Pareto charts were created in Microsoft Excel to apply the 80/20 principle. This analysis identified the defect categories that contributed most to overall process variation.
 
 ### Manufacturing Defect Pareto Distribution:
-![Manufacturing Defect Pareto Chart](batch13_pareto_chart.png)
+![Manufacturing Defect Pareto Chart](Insert new chart here)
+Note: This one was done before I made the Experimental 13th Batch
 
 ---
 
